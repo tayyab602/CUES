@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDdEXJiDEMkfaDPKTNKAivnRtw6W2mtrss',
-    appId: '1:1035085304367:android:147792e73fadbc53b8acda',
-    messagingSenderId: '1035085304367',
-    projectId: 'cues-245220',
-    storageBucket: 'cues-245220.firebasestorage.app',
+   // apiKey: 'yours API key',
+   // appId: 'you'd appId',
+   // messagingSenderId: 'yours message sender id',
+   // projectId: 'yours project id',
+   // storageBucket: 'yours project id.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBrBIpQAVt8Fat8bR2dJgwdnXpSKFINGCk',
-    appId: '1:1035085304367:ios:38570fa2f998270bb8acda',
-    messagingSenderId: '1035085304367',
-    projectId: 'cues-245220',
-    storageBucket: 'cues-245220.firebasestorage.app',
-    iosClientId: '1035085304367-qara63665brv5n9n1jh833g0nha22hkg.apps.googleusercontent.com',
+   // apiKey: 'yours API key',
+   // appId: 'yours app id',
+   // messagingSenderId: 'yours is',
+   // projectId: 'yours project id',
+   // storageBucket: 'yours project id.firebasestorage.app',
+    iosClientId: 'yours app id.apps.googleusercontent.com',
     iosBundleId: 'com.semesterproject.cues',
   );
 
