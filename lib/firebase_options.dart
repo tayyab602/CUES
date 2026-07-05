@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
    // projectId: 'yours project id',
    // storageBucket: 'yours project id.firebasestorage.app',
     iosClientId: 'yours app id.apps.googleusercontent.com',
-    iosBundleId: 'com.semesterproject.cues',
+    // iosBundleId: 'yours com.project. project',
   );
 
 }
